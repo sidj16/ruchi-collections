@@ -106,9 +106,9 @@ nav a {
 
 .explore {
     background-color: transparent;
-    color: #fff;
+    color: #3F2317;
     border: solid;
-    outline: 0.5px white;
+    outline: 0.5px 3F2317;
     padding: 15px 30px;
     border-radius: 25px;
     cursor: pointer;
@@ -167,7 +167,6 @@ footer {
 
 .furniture {
     background-color: white;
-    width: 100%;
     padding: 30px;
 
     .box-wrap {
@@ -217,7 +216,7 @@ footer {
             .image-box {
                 width: 33%;
                 aspect-ratio: 1/1;
-                padding: 10px;
+                padding: 20px;
                 display: flex;
                 justify-content: center;
                 flex-direction: column;
